@@ -1,6 +1,5 @@
-# vue-project-demo
+# vue-cli3-init-collect
 
-## Project setup
 ```
 npm install
 ```
